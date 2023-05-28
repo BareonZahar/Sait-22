@@ -84,21 +84,21 @@ body{
 }
 h1{
     color: #80001e;
-    margin-left: 430px;
+    margin-left: 410px;
     padding-left: 40px;
     font-size: 40px;
      border: 2px solid green;
     background-color: #1aff00;
-    margin-right: 470px;
+    margin-right: 450px;
 }
 h2{
     color: #80001e;
-    margin-left: 360px;
+    margin-left: 340px;
     padding-left: 20px;
     font-size: 25px;
     border: 2px solid green;
     background-color: #1aff00;
-    margin-right: 400px;
+    margin-right: 380px;
 }
 button{
     color: blue;
