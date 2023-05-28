@@ -1,0 +1,120 @@
+
+body{
+  background-image: url("skazka.jpg");
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+#ug{
+    display: block;
+    position: absolute;
+    width: 200px;
+    opacity: 0;
+}
+#noug{
+     display: block;
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    left: 1000px;
+    opacity: 0;
+}
+#f1{
+    margin-left: 450px;
+    margin-top: 25px;
+     width: 400px;
+    height: 140px;
+    display: block;
+    border: 5px solid #ffd500;
+     background-color: #007aff;
+}
+#f1 img{
+    width: 100px;
+    height: 100px;
+
+}
+#kap{
+    top: 50px;
+    left: 730px;
+ position: absolute;
+}
+#kat{
+  top: 50px;
+    left: 610px;
+ position:absolute;
+}
+#kar{
+    top: 50px;
+    left: 490px;
+     position: absolute;
+}
+#f2{
+   margin-left:  450px;
+    margin-top: 45px;
+    width: 400px;
+    height: 150px;
+    display: block;
+    border: 5px solid #ffd500;
+    background-color: #007aff;
+}
+#f2 img{
+    width: 100px;
+    height: 100px;
+
+}
+#tap{
+    top: 400px;
+    left: 730px;
+      border: 1px solid red;
+     position: absolute;
+     opacity: 1;
+}
+#tat{
+    top: 400px;
+    left: 610px;
+     border: 1px solid red;
+     position: absolute;
+    opacity: 1;
+}
+#tar{
+    top: 400px;
+    left: 490px;
+     position: absolute;
+    border: 1px solid red;
+    opacity: 1;
+}
+h1{
+    color: #80001e;
+    margin-left: 430px;
+    padding-left: 40px;
+    font-size: 40px;
+     border: 2px solid green;
+    background-color: #1aff00;
+    margin-right: 470px;
+}
+h2{
+    color: #80001e;
+    margin-left: 360px;
+    padding-left: 20px;
+    font-size: 25px;
+    border: 2px solid green;
+    background-color: #1aff00;
+    margin-right: 400px;
+}
+button{
+    color: blue;
+     border: 2px solid green;
+    background-color: #1aff00;
+     margin-left: 560px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+#nah{
+     color: blue;
+     border: 2px solid green;
+    background-color: #1aff00;
+     margin-left: 560px;
+    margin-top: 20px;
+    font-size: 20px;
+    opacity: 0;
+}
+
